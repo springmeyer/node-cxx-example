@@ -1,5 +1,5 @@
-
 # node-cxx-example
+[![Build Status](https://travis-ci.com/springmeyer/node-cxx-example.svg?branch=master)](https://travis-ci.com/springmeyer/node-cxx-example)
 
 This is a modern (as of 2010) example of a simple node C++ module (aka addon).
 
