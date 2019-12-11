@@ -2,13 +2,15 @@ language: node_js
 
 os: osx
 
+node_js: 12
+
 osx_image: xcode11
 
 before_install:
   - npm ci
 
 install:
-  - ./compile-and-link.sh 
+  - ./compile-and-link.sh
 
 script:
   - node test.js
