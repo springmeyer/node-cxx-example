@@ -1,0 +1,22 @@
+{
+  "name": "cxx-example",
+  "version": "1.0.0",
+  "description": "This is a modern (as of 2010) example of a simple node C++ module.",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/springmeyer/node-cxx-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/springmeyer/node-cxx-example/issues"
+  },
+  "homepage": "https://github.com/springmeyer/node-cxx-example#readme",
+  "dependencies": {
+    "node-addon-api": "^2.0.0"
+  }
+}
