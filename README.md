@@ -1,7 +1,7 @@
 # node-cxx-example
 [![Build Status](https://travis-ci.com/springmeyer/node-cxx-example.svg?branch=master)](https://travis-ci.com/springmeyer/node-cxx-example)
 
-This is a modern (as of 2010) example of a simple node C++ module (aka addon).
+This is a modern (as of 2020) example of a simple node C++ module (aka addon).
 
 It is designed to be used as a template by those interested in having a working starting point for experiments and learning.
 
