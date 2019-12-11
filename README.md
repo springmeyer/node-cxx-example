@@ -28,7 +28,7 @@ Then, build or rebuild the C++ code with:
 ./compile-and-link.sh
 ```
 
-Run `./build` every time you change anything in `module.cpp`.
+Run `./compile-and-link.sh` every time you change anything in `module.cpp`.
 
 # Testing
 
