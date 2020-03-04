@@ -3,11 +3,9 @@
 
 This is a modern (as of 2020) example of a simple node C++ module (aka addon).
 
-It is designed to be used as a template by those interested in having a working starting point for experiments and learning.
+It is designed to be used as a template by those interested in having a relatively simple starting point for experiments and learning.
 
 If you are looking to write a new production quality node module a better starting point would be https://github.com/mapbox/node-cpp-skel, because it contains more build and testing scaffolding to catch bugs you might write.
-
-This module is specifically geared to simplicity in the hope that it will accelerate curiosity learning and allow more focus on how to write new code that uses Napi.
 
 # Supports
 
